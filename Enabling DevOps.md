@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Enabling DevOps"
+permalink: /devops
+---
+
 ### Disclaimer
 All events and characters are fictional. Any similarity to real-life events is a coincidence.
 

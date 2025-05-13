@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Need for Tasks"
-categories: development management
+categories: development management agile project-management
+tags: task-management productivity team-collaboration agile-methodologies software-engineering-practices
 ---
 
 Is it ok to ask developers to keep their tasks up to date? To provide a reasonable task name, description that defines the intention of the task and definition of done (acceptance criteria), estimation, dependencies on other tasks, etc.

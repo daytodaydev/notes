@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Enabling DevOps"
-categories: devops management
+categories: devops management cloud-infrastructure software-architecture
+tags: ci/cd infrastructure-as-code terraform aws cloud-computing developer-productivity site-reliability-engineering platform-engineering
 ---
 
 This note describes bad DevOps and proposes a way to enable good DevOps in an organisation. The proposal is to grant every developer (or development team) permissions and responsibility to manage the operations of their own services. While this may sound obvious and there are a lot of materials on this topic, I'd like to share my experience that reinforces the belief in letting developers maintain the infrastructure.

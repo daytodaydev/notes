@@ -1,4 +1,9 @@
-# Need for Tasks
+---
+layout: post
+title:  "Need for Tasks"
+categories: development management
+---
+
 Is it ok to ask developers to keep their tasks up to date? To provide a reasonable task name, description that defines the intention of the task and definition of done (acceptance criteria), estimation, dependencies on other tasks, etc.
 
 When asked to update a task, developers sometimes react with pushback and passive aggression. The main argument for not keeping tasks in order is simplicity of the task: "Everyone understands what's going on in it. No need to update status, to add estimation and description. Everything is clear from the name of the task itself." Then follow complaints about micromanagement and bureaucracy. Those points find support from other team members and soon make you feel like you force the whole team into performing some crazy ritual rather than just being professional and facilitating cooperation and transparency.

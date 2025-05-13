@@ -1,14 +1,10 @@
 ---
-layout: page
-title: "Enabling DevOps"
-permalink: /devops
+layout: post
+title:  "Enabling DevOps"
+categories: devops management
 ---
 
-### Disclaimer
-All events and characters are fictional. Any similarity to real-life events is a coincidence.
-
-### Abstract
-This is a note about bad DevOps and proposes a way to enable good DevOps in the organisation. The proposal is to grant every developer (or development team) permissions and responsibility to manage the operations of their own services. While this may sound obvious and there are a lot of materials on this topic, I'd like to share my experience that reinforces the belief in letting developers maintain the infrastructure.
+This note describes bad DevOps and proposes a way to enable good DevOps in an organisation. The proposal is to grant every developer (or development team) permissions and responsibility to manage the operations of their own services. While this may sound obvious and there are a lot of materials on this topic, I'd like to share my experience that reinforces the belief in letting developers maintain the infrastructure.
 
 I'll use devops (lowercase) for engineers who have the so-called "DevOps" role, similar to developer, manager, etc. DevOps (camel-case) - for the methodology itself.
 

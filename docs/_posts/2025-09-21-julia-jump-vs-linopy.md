@@ -16,10 +16,11 @@ Code for the model is taken from this [course](https://github.com/Power-Systems-
 I've extended demand to 30 years to increase the number of parameters of the model and size of the data.
 
 # Here are results
+
 | Library | HiGHs | Xpress |
 | ---     | ---   | ---    |
-|Linopy | 2m 31s | 23s
-|JuMP | 2m 37s | 52s
+| Linopy | 2m 31s | 23s |
+| JuMP | 2m 37s | 52s |
 
 Linopy used less memory as well.
 Julia's Xpress library is not officially supported, that could explain why it was slower.

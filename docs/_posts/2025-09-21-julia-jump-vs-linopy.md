@@ -9,11 +9,11 @@ During the effort to increase the solving speed of our linear optimisation probl
 
 Linopy [benchmarking page](https://linopy.readthedocs.io/en/latest/benchmark.html) claims that Julia has better performance in terms of solution time.
 
-I've compared solution of capacity expansion model in Jump and Linopy.
+I compared solution of capacity expansion model in Jump and Linopy.
 
 Code for the model is taken from this [course](https://github.com/Power-Systems-Optimization-Course/power-systems-optimization/blob/master/Notebooks/03-Basic-Capacity-Expansion.ipynb).
 
-I've extended demand to 30 years to increase the number of parameters of the model and size of the data.
+I extended the demand forecast to 30 years to increase the number of parameters of the model and the size of the data.
 
 # Here are results
 

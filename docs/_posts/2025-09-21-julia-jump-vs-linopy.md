@@ -5,7 +5,7 @@ categories: development performance linopy pandas jump julia
 tags: performance frameworks
 ---
 # Linopy vs JuMP (quick notes)
-During the effort to increase time to solve our linear optimisation problem I've desided to evaluate switching from Python to Julia.
+During the effort to increase the solving speed of our linear optimisation problem I desided to evaluate switching from Python to Julia.
 
 Linopy [benchmarking page](https://linopy.readthedocs.io/en/latest/benchmark.html) claims that Julia has better performance in terms of solution time.
 

@@ -29,7 +29,7 @@ I am not suggesting that one should mark a lap after every paragraph, but someti
 
 With the Pomodoro Technique, I would still take short breaks after each paragraph, trying to fit a full paragraph into the 25-minute block. The difference is that at the end I wouldn't have detailed information about my learning speed and would be more tired because of the need to adjust to the strict Pomodoro timer.
 
-Consider the following examples of activity cycles: 25, 5, 25, 5, 25, 5, 25, 30 to 17, 23, 24, 3, 30. The latter tells the story: hard start, then picked up the pace and stayed focused (23, 24). At the end of 24 I realised that I had worked enough and it was time for a break. During the break I analysed the work and returned to writing in 3 minutes to keep the new idea alive in my head instead of forcing myself to sit for up to five minutes and losing the inspiration.
+Consider the following examples of activity cycles: 25, 5, 25, 5, 25, 5, 25, 30 versus 17, 23, 24, 3, 30. The latter tells the story: hard start, then picked up the pace and stayed focused (23, 24). At the end of 24 I realised that I had worked enough and it was time for a break. During the break I analysed the work and returned to writing in 3 minutes to keep the new idea alive in my head instead of forcing myself to sit for up to five minutes and losing the inspiration.
 
 Also, it is much easier to start over. Just press the reset button and a new cycle can begin. No overhead, no need to name your activities in sophisticated time-trackers. If the activity is really important, I'll find a way to write and track my progress. It can be a work log dedicated to this activity. Next time it could be my tasks board, etc. The point is that it should be flexible.
 
